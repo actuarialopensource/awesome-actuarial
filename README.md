@@ -8,6 +8,15 @@ An Awesome List of Actuarial Packages and Resources
 | -- | -- | -- |
 | [pyliferisk](https://github.com/franciscogarate/pyliferisk)        | Python | Life Actuarial Maths |
 | [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) | Julia  | Life Actuarial Maths |
+| [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) | Julia  | Mortality and rate tables made easy |
+
+
+### Experience Analysis
+
+| Package           | Language | Description         |
+| -- | -- | -- |
+| [expstudies](https://github.com/MatthewCaseres/expstudies)        | R | Exposure-related utility functions |
+| [ExperienceAnalysis.jl](https://github.com/JuliaActuary/ExperienceAnalysis.jl) | Julia  | Exposure-related utility functions |
 
 ## P&C-related packages
 
@@ -20,6 +29,7 @@ An Awesome List of Actuarial Packages and Resources
 | Package           | Language | Description         |
 | -- | -- | -- |
 | [Yields.jl](https://github.com/JuliaActuary/Yields.jl) | Julia  | Term structure yield manipulation and discounting |
+| [ActuaryUtilities.jl](https://github.com/JuliaActuary/ActuaryUtilities.jl) | Julia  | Financial maths and other utility functions |
 
 ## Full-Fledged Modeling Packages
 
