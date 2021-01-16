@@ -9,6 +9,7 @@ An Awesome List of Actuarial Packages and Resources
 | [pyliferisk](https://github.com/franciscogarate/pyliferisk)        | Python | Life Actuarial Maths |
 | [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) | Julia  | Life Actuarial Maths |
 | [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) | Julia  | Mortality and rate tables made easy |
+| [heavymodel](https://github.com/lewisfogden/heavymodel) | Python | Cashflow Modelling Framework |
 
 
 ### Experience Analysis
