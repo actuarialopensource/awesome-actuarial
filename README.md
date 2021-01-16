@@ -22,8 +22,9 @@ An Awesome List of Actuarial Packages and Resources
 
 | Package           | Language | Description         |
 | -- | -- | -- |
-| [chainladder](https://github.com/casact/chainladder-python) | Python  | Claims Triangles |
-
+| [ChainLadder](https://github.com/mages/ChainLadder) | R  | Claims Reserving |
+| [chainladder](https://github.com/casact/chainladder-python) | Python  | Claims Reserving |
+| [aggregate](https://github.com/mynl/aggregate) | Python  | Aggregate Distributions |
 
 ## Other packages
 | Package           | Language | Description         |
