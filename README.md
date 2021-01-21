@@ -2,6 +2,8 @@
 
 An Awesome List of Actuarial Packages and Resources
 
+See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
+
 ## Life-related packages
 
 | Package           | Language | Description         |
@@ -10,6 +12,7 @@ An Awesome List of Actuarial Packages and Resources
 | [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) | Julia  | Life Actuarial Maths |
 | [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) | Julia  | Mortality and rate tables made easy |
 | [heavymodel](https://github.com/lewisfogden/heavymodel) | Python | Cashflow Modelling Framework |
+| [lifelib](https://github.com/fumitoh/lifelib)        | Python | Life Projection Models |
 
 
 ### Experience Analysis
@@ -37,7 +40,7 @@ An Awesome List of Actuarial Packages and Resources
 
 | Package           | Language | Description         |
 | -- | -- | -- |
-| [lifelib](https://github.com/fumitoh/lifelib)        | Python | Life Insurance Modeling |
+| [modelx](https://github.com/fumitoh/modelx)        | Python | Numerical Modeling Tool |
 
 ## Open Datasets
 
