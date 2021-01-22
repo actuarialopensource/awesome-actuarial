@@ -29,6 +29,7 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 | [ChainLadder](https://github.com/mages/ChainLadder) | R  | Claims Reserving |
 | [chainladder](https://github.com/casact/chainladder-python) | Python  | Claims Reserving |
 | [aggregate](https://github.com/mynl/aggregate) | Python  | Aggregate Distributions |
+| [PCDM](https://github.com/casact/PCDM) | Python | Property Casualty Data Model |
 
 ## Other packages
 | Package           | Language | Description         |
