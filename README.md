@@ -11,6 +11,7 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 | [pyliferisk](https://github.com/franciscogarate/pyliferisk)        | Python | Life Actuarial Maths |
 | [LifeContingencies.jl](https://github.com/JuliaActuary/LifeContingencies.jl) | Julia  | Life Actuarial Maths |
 | [MortalityTables.jl](https://github.com/JuliaActuary/MortalityTables.jl) | Julia  | Mortality and rate tables made easy |
+| [pymort](https://github.com/actuarialopensource/pymort) | Python  | Mortality and rate tables made easy |
 | [heavymodel](https://github.com/lewisfogden/heavymodel) | Python | Cashflow Modelling Framework |
 | [lifelib](https://github.com/fumitoh/lifelib)        | Python | Life Projection Models |
 
@@ -19,7 +20,7 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 
 | Package           | Language | Description         |
 | -- | -- | -- |
-| [expstudies](https://github.com/MatthewCaseres/expstudies)        | R | Exposure-related utility functions |
+| [expstudies (Archived)](https://github.com/MatthewCaseres/expstudies)        | R | Exposure-related utility functions |
 | [ExperienceAnalysis.jl](https://github.com/JuliaActuary/ExperienceAnalysis.jl) | Julia  | Exposure-related utility functions |
 
 ## P&C-related packages
